@@ -6,6 +6,7 @@ Feel free to add links or ideas!
 
 ## Links
 
-* Elliot's Data-Oriented Python Library: https://github.com/Permafacture/data-oriented-pyglet
-* Ryan's Python Music stuff: https://github.com/ryanfmurphy/music
+* [Meeting Notes](https://github.com/South-Austin-Dev-Mentorship/HelloWorld/blob/master/meeting-notes.md)
+* [Elliot's Data-Oriented Python Library](https://github.com/Permafacture/data-oriented-pyglet)
+* [Ryan's Python Music stuff](https://github.com/ryanfmurphy/music)
 
