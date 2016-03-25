@@ -1,6 +1,13 @@
 Meeting Notes
 =============
 
+## Thu Mar 11 2016
+
+* Created a [Postgres Database](http://www.postgresql.org/) to keep track of
+  ideas, things we want to learn / have learned, things we want to work on, 
+  questions, people on the mailing list, etc.
+
+
 ## Thu Mar 24 2016
 
 * Created a [Github](https://github.com/South-Austin-Dev-Mentorship) for the meetup,
