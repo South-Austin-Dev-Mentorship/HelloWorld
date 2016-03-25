@@ -2,5 +2,5 @@
 
 ## Links
 
-* [https://github.com/Permafacture/data-oriented-pyglet]
+* Elliot's Data-Oriented Python Library: https://github.com/Permafacture/data-oriented-pyglet
 
