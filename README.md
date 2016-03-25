@@ -1,4 +1,8 @@
-# Welcome to the South Austin Dev Mentorship Github
+# Welcome to the South Austin Dev Mentorship Github!
+
+This is a space to share things you're learning about coding,
+as well as general info about the Meetup, including meeting notes.
+Feel free to add links or ideas!
 
 ## Links
 
